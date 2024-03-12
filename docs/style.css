@@ -5,19 +5,19 @@
     font-weight: 700;
     font-style: normal;
     color: rgb(220, 9, 16);
+
 }
 body{
     margin: 0px;
     padding: 0px;
     background:url(netf.jpeg);
-    
-}
+    background-position: center;
+    /* background-attachment: fixed; */
 }
 .signin{
     display: flex;
     justify-content: end;
     margin-bottom: 200px;
-    
 }
 .in{
     border: 1px solid tomato;
