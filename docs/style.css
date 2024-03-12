@@ -9,8 +9,7 @@
 body{
     margin: 0px;
     padding: 0px;
-    background:url(netf.jpeg) no-repeat;
-    background-size: cover;
+    background:url(netf.jpeg);
     background-position: center;
 }
 }
