@@ -10,9 +10,11 @@
 body{
     margin: 0px;
     padding: 0px;
-    background:url(netf.jpeg);
-    
+    background:url(netf.jpeg) no-repeat;
+    background-size: cover;
     background-position: center;
+    background-attachment: fixed;
+}
 }
 .signin{
     display: flex;
