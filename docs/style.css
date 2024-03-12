@@ -1,0 +1,68 @@
+.net{
+    text-align: center;
+    font-size: 4em;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    color: rgb(220, 9, 16);
+
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    background:url(netf.jpeg);
+    
+    background-position: center;
+}
+.signin{
+    display: flex;
+    justify-content: end;
+    margin-bottom: 200px;
+    
+}
+.in{
+    border: 1px solid tomato;
+    border-radius: 3px;
+    padding: 8px;
+    background-color: rgb(255, 0, 0);
+    font-size: larger;
+}
+.vere{
+    color: whitesmoke;
+    text-decoration: none;
+}
+.home{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    row-gap: 20px;
+    
+}
+.what{
+    font-size: xx-large;
+    padding: 10px;
+    color: whitesmoke;
+}
+.watch{
+    font-size: large;
+    color: whitesmoke;
+    padding: 20px;
+}
+.next{
+    display: flex;
+    justify-content: center;
+}
+.w{
+    display: flex;
+    justify-content: center;
+    color: whitesmoke;
+}
+.free{
+    padding: 20px;
+    font-size: large;
+    border: 1px solid rgb(220, 9, 16);
+    border-radius: 4px;
+    background-color: rgb(220, 9, 16);
+    cursor: pointer;
+}
